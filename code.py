@@ -1,2 +1,3 @@
 import nltk
-print("hello alex!")
+print("hello")
+print("and hello alex!")
